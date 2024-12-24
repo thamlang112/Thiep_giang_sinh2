@@ -198,7 +198,7 @@ $(document).ready(function () {
               $(".message").typed({
                 strings: [
                   "<<< Merry Christmas >>>",
-                  "Cầu xin Thiên Chúa sẽ đem hạnh phúc, niềm vui, bình an, tình yêu đến cho tất cả mọi người. Chúc mọi người có một mùa Giáng sinh an           lành!",
+                  "Cầu xin Thiên Chúa sẽ đem hạnh phúc, niềm vui, bình an, tình yêu đến cho tất cả mọi người. Chúc mọi người có một mùa Giáng sinh an                                 lành!",
                 ],
                 typeSpeed: 250,
                 startDelay: 100,
